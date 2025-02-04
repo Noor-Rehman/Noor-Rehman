@@ -50,6 +50,12 @@
   </a>
 </p>
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noor-rehman&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 ## ☕ Support My Work
 If you find my projects helpful, consider supporting me with a coffee! 😊
 <p>
